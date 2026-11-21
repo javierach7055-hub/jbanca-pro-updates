@@ -1,0 +1,12 @@
+{
+  "id": "v1.3.0-01",
+  "version": "1.3.0",
+  "date": "2026-11-21",
+  "title": "¡Novedades en JBanca Pro v1.3.0!",
+  "urgent": true,
+  "items": [
+    "Nuevo cálculo automático de comisión por porcentaje para el vendedor en el Cuadre de Caja.",
+    "Ahora puedes combinar varias loterías y horarios dentro del mismo ticket.",
+    "Consulta de tickets ganadores optimizada mostrando únicamente las jugadas premiadas."
+  ]
+}
