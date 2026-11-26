@@ -1,12 +1,10 @@
 {
-  "id": "v1.3.0-01",
-  "version": "1.3.0",
-  "date": "2026-11-21",
-  "title": "¡Novedades en JBanca Pro v1.3.0!",
-  "urgent": true,
-  "items": [
-    "Nuevo cálculo automático de comisión por porcentaje para el vendedor en el Cuadre de Caja.",
-    "Ahora puedes combinar varias loterías y horarios dentro del mismo ticket.",
-    "Consulta de tickets ganadores optimizada mostrando únicamente las jugadas premiadas."
+  "version": "1.4.0",
+  "fecha": "2026-11-26",
+  "titulo": "Actualización JBanca Pro v1.4.0 — Multi-Banca, Multi-Moneda y 15 Loterías",
+  "novedades": [
+    "Modo Propietario Multi-Banca en la nube: consulta desde tu teléfono o PC el resumen consolidado y por taquilla en tiempo real con tu Código de Propietario, manteniendo el funcionamiento 100% offline si se cae internet.",
+    "Configuración Multi-Moneda: selecciona la moneda de operación de tu agencia entre Bolívares (Bs.), Pesos Colombianos (COP $), Dólares (USD $) o Euros (EUR €) en tickets, cuadre de caja y topes.",
+    "6 nuevas loterías activas (15 en total): se incorporan Loto Chaima (40x), El Granjazo (60x), Granja Millonaria (30x), Cóndor Gana (60x), Tropi Gana (30x) y Fruita Gana (30x), todas disponibles."
   ]
 }
