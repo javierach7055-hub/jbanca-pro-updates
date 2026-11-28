@@ -1,12 +1,13 @@
 {
-  "id": "v1.4.0-2026-11-26",
-  "version": "1.4.0",
-  "date": "2026-11-26",
-  "title": "Actualización JBanca Pro v1.4.0 — Multi-Banca, Multi-Moneda y 15 Loterías",
+  "id": "v1.5.0-2026-11-28",
+  "version": "1.5.0",
+  "date": "2026-11-28",
+  "title": "Actualización JBanca Pro v1.5.0 — Venta Multi-Lotería, Multi-Horario y Seguridad Avanzada",
   "items": [
-    "Modo Propietario Multi-Banca en la nube: consulta desde tu teléfono o PC el resumen consolidado y por taquilla en tiempo real con tu Código de Propietario, manteniendo el funcionamiento 100% offline si se cae internet.",
-    "Configuración Multi-Moneda: selecciona la moneda de operación de tu agencia entre Bolívares (Bs.), Pesos Colombianos (COP $), Dólares (USD $) o Euros (EUR €) en tickets, cuadre de caja y topes.",
-    "6 nuevas loterías activas (15 en total): se incorporan Loto Chaima (40x), El Granjazo (60x), Granja Millonaria (30x), Cóndor Gana (60x), Tropi Gana (30x) y Fruita Gana (30x), todas disponibles."
+    "Selección múltiple de loterías y horarios (Modo Normal): marca varias loterías y varios sorteos al mismo tiempo para jugar el mismo número en todas las combinaciones con un solo clic.",
+    "Modo Demo / Vista Previa: prueba el sistema completo antes de activar una licencia definitiva, con tickets identificados como prueba y límite controlado.",
+    "Bloqueo de seguridad por hora incorrecta: protege la taquilla deteniendo las ventas automáticamente si el reloj o la fecha de la computadora están desconfigurados.",
+    "Filtro oficial de resultados en tiempo real: valida que los sorteos correspondan a la hora oficial de Venezuela para evitar resultados adelantados."
   ],
   "urgent": false
 }
